@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="_0">0</string>
+    <string name="_1">+1</string>
+    <string name="minus_one">-1</string>
+    <string name="plus_one">+1</string>
+    <string name="next">next</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
